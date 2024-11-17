@@ -1,5 +1,6 @@
 {
-    "version": "0.0.1",
-    "changes": "변경사항:\n- 새로운 기능 추가\n- 버그 수정",
-    "download_url": "https://haven-jeon.github.io/PildamAI/updates/v0.0.1/update.pck"
+    "version": "1.0.2",
+    "changes": "변경사항:\n- 새로운 기능 추가\n- 버그 수정\n- 성능 개선",
+    "required": false,
+    "release_date": "2024-03-20"
 }
