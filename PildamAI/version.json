@@ -1,6 +1,6 @@
 {
-    "version": "0.0.41",
-    "changes": "변경사항:\n- new, save, open 기능 단축키 설정(ctrl+n, ctrl+s(ctrl+shift+s), ctrl+o)",
+    "version": "0.0.42",
+    "changes": "웰링턴 기반 스타일 추출 1차 튜닝 모델 추가",
     "required": false,
-    "release_date": "2024-11-26"
+    "release_date": "2024-12-01"
 }
