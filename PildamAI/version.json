@@ -1,6 +1,6 @@
 {
-    "version": "0.0.42",
-    "changes": "웰링턴 기반 스타일 추출 1차 튜닝 모델 추가",
+    "version": "0.0.43",
+    "changes": "스타일 추출기\n- json 출력 안정화\n- 골든셋 2차 튜닝, 글쓰기 모델\n- 골든셋 1차 튜닝",
     "required": false,
-    "release_date": "2024-12-01"
+    "release_date": "2024-12-09"
 }
