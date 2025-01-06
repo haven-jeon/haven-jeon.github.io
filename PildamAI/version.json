@@ -1,6 +1,6 @@
 {
-    "version": "0.0.45",
-    "changes": "canvas(원고지) 추가\n- 쳇 모드 활성(글작성, 편집, 첨삭(개발중))",
+    "version": "0.0.46",
+    "changes": "canvas(원고지)\n- 펑션콜 모델 변경(올랜도 -> 웰링턴)\n- 펑션콜 프롬프트 최적화",
     "required": false,
     "release_date": "2025-01-03"
 }
