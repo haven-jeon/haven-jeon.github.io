@@ -1,6 +1,6 @@
 {
-    "version": "0.0.46",
-    "changes": "canvas(원고지)\n- 펑션콜 모델 변경(올랜도 -> 웰링턴)\n- 펑션콜 프롬프트 최적화",
+    "version": "0.0.47",
+    "changes": "canvas(원고지)\n- 원고지 수정 결과 반영 편집 응답 적용\n- 원고지 수정 작업시 끝에서부터 진행(수정 위치 정합성을 위함)",
     "required": false,
-    "release_date": "2025-01-06"
+    "release_date": "2025-01-07"
 }
