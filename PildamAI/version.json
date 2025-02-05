@@ -1,5 +1,5 @@
 {
-    "version": "0.0.51",
+    "version": "0.0.52",
     "changes": "글쓰기 모델\n - SNS 데이터 추가 학습\n - 글 재작성 능력 보강\n\n스타일 모델\n - 제목, 요약에 글감정보 제거\n\n펑션콜 모델(실험)\n - 리버풀",
     "required": false,
     "release_date": "2025-02-05"
