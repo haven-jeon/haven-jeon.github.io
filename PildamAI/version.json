@@ -1,6 +1,6 @@
 {
-    "version": "0.0.53",
-    "changes": "사용성 관련\n- 펑션콜 모델 선택 옵션 추가\n- HCX 모드 추가\n\nFunction Call\n- 신규 KWrite-FC 튜닝 모델 추가\n",
+    "version": "0.0.54",
+    "changes": "사용성 관련\n- 펑션콜 응답 조정 기능(FC-Debug)\n\n스타일 모델 개선\n- 영어 표현 인식, 스타일 내 글감 제거 강화",
     "required": false,
-    "release_date": "2025-02-11"
+    "release_date": "2025-02-18"
 }
