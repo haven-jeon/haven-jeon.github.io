@@ -1,6 +1,6 @@
 {
-    "version": "0.0.54",
-    "changes": "사용성 관련\n- 펑션콜 응답 조정 기능(FC-Debug)\n\n스타일 모델 개선\n- 영어 표현 인식, 스타일 내 글감 제거 강화",
+    "version": "0.0.55",
+    "changes": "스타일 모델 개선\n- examples 사라지던 문제 개선\n- 대괄호 포함 마크다운 텍스트 입력 관련 에러 개선",
     "required": false,
-    "release_date": "2025-02-18"
+    "release_date": "2025-02-20"
 }
