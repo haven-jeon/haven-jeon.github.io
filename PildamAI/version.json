@@ -1,6 +1,6 @@
 {
-    "version": "0.0.55",
-    "changes": "스타일 모델 개선\n- examples 사라지던 문제 개선\n- 대괄호 포함 마크다운 텍스트 입력 관련 에러 개선",
+    "version": "0.0.56",
+    "changes": "글쓰기 모델 업데이트\n- 멀티턴 시나리오 보강",
     "required": false,
-    "release_date": "2025-02-20"
+    "release_date": "2025-02-25"
 }
