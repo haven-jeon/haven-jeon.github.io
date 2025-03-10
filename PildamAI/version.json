@@ -1,6 +1,6 @@
 {
-    "version": "0.0.56",
-    "changes": "글쓰기 모델 업데이트\n- 멀티턴 시나리오 보강",
+    "version": "0.0.57",
+    "changes": "API 응답 스펙 변경 대응 업데이트",
     "required": false,
-    "release_date": "2025-02-25"
+    "release_date": "2025-03-10"
 }
