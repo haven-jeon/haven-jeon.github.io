@@ -1,6 +1,6 @@
 {
-    "version": "0.0.57",
-    "changes": "API 응답 스펙 변경 대응 업데이트",
+    "version": "0.0.58",
+    "changes": "글쓰기 및 스타일 추출 모델 업데이트",
     "required": false,
-    "release_date": "2025-03-10"
+    "release_date": "2025-03-12"
 }
