@@ -2,5 +2,5 @@
     "version": "0.0.59",
     "changes": "'스타일 examples 제거' 토글 버튼 추가\n - 글쓰기 모델에 스타일 정보를 전송할때 examples를 제거함",
     "required": false,
-    "release_date": "2025-03-12"
+    "release_date": "2025-03-14"
 }
