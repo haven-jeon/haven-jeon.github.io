@@ -1,6 +1,6 @@
 {
-    "version": "0.0.60",
-    "changes": "스타일 추출 모델 갱신\n- title 간소화",
+    "version": "0.0.61",
+    "changes": "글쓰기 모델 업데이트\n- examples 제거 학습\n- '스타일 example 제거' 기본값(on)\n\nkrwite-FC 모델 업데이트",
     "required": false,
     "release_date": "2025-03-17"
 }
