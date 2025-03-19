@@ -1,6 +1,6 @@
 {
     "version": "0.0.61",
-    "changes": "글쓰기 모델 업데이트\n- examples 제거 학습\n- '스타일 example 제거' 기본값(on)\n\nkrwite-FC 모델 업데이트",
+    "changes": "글쓰기 모델 업데이트\n- 학습 데이터 품질 개선\n\nGeneric-FC 모델 업데이트",
     "required": false,
-    "release_date": "2025-03-17"
+    "release_date": "2025-03-19"
 }
