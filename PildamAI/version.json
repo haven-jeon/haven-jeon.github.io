@@ -1,5 +1,5 @@
 {
-    "version": "0.0.61",
+    "version": "0.0.62",
     "changes": "글쓰기 모델 업데이트\n- 학습 데이터 품질 개선\n\nGeneric-FC 모델 업데이트",
     "required": false,
     "release_date": "2025-03-19"
