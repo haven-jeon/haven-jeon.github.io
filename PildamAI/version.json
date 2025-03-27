@@ -1,6 +1,6 @@
 {
-    "version": "0.0.63",
-    "changes": "Generic-FC 모델 업데이트\n- 상세 내용은 slack에서 공유 하겠습니다.",
+    "version": "0.0.64",
+    "changes": "Generic-FC 모델 업데이트\n- 함수 인자 및 디스크립션 최신화\n- 원고지 끝에서 이어쓰기 기능 제거",
     "required": false,
-    "release_date": "2025-03-24"
+    "release_date": "2025-03-27"
 }
