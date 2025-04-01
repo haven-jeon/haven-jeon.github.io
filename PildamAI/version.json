@@ -1,6 +1,6 @@
 {
-    "version": "0.0.64",
-    "changes": "Generic-FC\n- 함수 인자 및 디스크립션 최신화\n- 원고지 끝에서 이어쓰기 기능 제거",
+    "version": "0.0.65",
+    "changes": "글쓰기, 스타일, FC\n- release candidate 1 적용\n\n자세한 내용은 슬랙메시지 참고",
     "required": false,
-    "release_date": "2025-03-27"
+    "release_date": "2025-04-01"
 }
