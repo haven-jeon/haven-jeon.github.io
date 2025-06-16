@@ -1,6 +1,6 @@
 {
     "version": "0.0.68",
-    "changes": "Add reasoning model",
+    "changes": "리즈닝 모델 추가",
     "required": false,
     "release_date": "2025-06-16"
 }
