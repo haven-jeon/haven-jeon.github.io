@@ -1,6 +1,6 @@
 {
     "version": "0.0.68",
-    "changes": "헬싱키 글쓰기 모델 추가",
+    "changes": "Add reasoning model",
     "required": false,
     "release_date": "2025-06-16"
 }
