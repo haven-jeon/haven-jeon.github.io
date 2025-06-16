@@ -1,6 +1,6 @@
 {
-    "version": "0.0.67",
-    "changes": "Function Call\n- KWrite-FC 모델 업데이트(모델 갱신, 프롬프트 갱신)\n- Image-FC 추가",
+    "version": "0.0.68",
+    "changes": "헬싱키 글쓰기 모델 추가",
     "required": false,
-    "release_date": "2025-04-15"
+    "release_date": "2025-06-16"
 }
